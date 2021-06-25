@@ -17,4 +17,4 @@ def backward(num):
 
 print('Программа задом на перёд!')
 z = backward(int(input('Введите число: ')))
-print(f'Число наоборот: {z}')
+print(f'Число наоборот: {int(z)}')
